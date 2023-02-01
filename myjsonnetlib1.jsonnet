@@ -1,5 +1,7 @@
+local j3 = import "vendor/jsonnet3/myjsonnetlib3.jsonnet";
+
 {
-  name: "Tom",
+  name: "J - 1",
   age: 40,
-  welcome: "Hi"
+  welcome: "Hi "+ j3.name
 }
