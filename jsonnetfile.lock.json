@@ -8,8 +8,9 @@
           "subdir": ""
         }
       },
-      "version": "test1"
+      "version": "d7b15fa459155bac5e933ed63adfd3aaa0203a0b",
+      "sum": "23ytO6sodL6NvL1SlpiRxYuGbP+PXYVtRH+s6fbMaIQ="
     }
   ],
-  "legacyImports": true
+  "legacyImports": false
 }
